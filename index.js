@@ -30,8 +30,6 @@ for(var i=0;i<7;i++){
                 var tom = new Audio('sounds/tom-4.mp3');
                 tom.play()
                 break;
-
-        
             default:alert("error")
                 break;
         }}
